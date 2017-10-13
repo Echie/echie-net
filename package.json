@@ -1,0 +1,20 @@
+{
+  "name": "homepage-gatsby",
+  "version": "1.0.0",
+  "author": "Teemu Huovinen <teemu.huovinen@hotmail.fi>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby build && gatsby serve --port 8080",
+    "dev": "gatsby develop --port 8080",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.45",
+    "gatsby-plugin-react-helmet": "^1.0.5",
+    "gatsby-plugin-sass": "^1.0.12"
+  },
+  "devDependencies": {
+    "prettier": "^1.6.1",
+    "sass-lint": "^1.12.0"
+  }
+}

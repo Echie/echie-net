@@ -1,0 +1,29 @@
+@import '../common';
+
+.Hero {
+    background-color: $theme-success;
+    color: #fff;
+    padding: 60px $side-padding;
+    text-align: center;
+
+    &-Pic {
+        border-radius: 50%;
+    }
+
+    &-Title {
+        margin-top: 0.5em;
+        margin-bottom: 0;
+    }
+
+    &-Separator {
+        background-color: #ecf0f1;
+        height: 1px;
+        width: 100%;
+        margin: 25px 0;
+    }
+
+    &-Skills {
+        font-weight: 300;
+        color: #ecf0f1;
+    }
+}

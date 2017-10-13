@@ -1,0 +1,12 @@
+@import '../common';
+
+.Projects {
+    background-color: $theme-success;
+    padding: 60px $side-padding;
+    text-align: center;
+    color: #fff;
+
+    &-Text {
+        font-size: 1.5em;
+    }
+}
