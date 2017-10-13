@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "author": "Teemu Huovinen <teemu.huovinen@hotmail.fi>",
   "license": "MIT",
-  "scripts": {
-    "start": "gatsby build && gatsby serve --port 8080",
-    "dev": "gatsby develop --port 8080",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'"
+  "engines": {
+    "npm": "5.4.2",
+    "node": "6.11.1"
   },
   "dependencies": {
     "gatsby": "^1.9.45",
@@ -18,8 +17,9 @@
     "prettier": "^1.6.1",
     "sass-lint": "^1.12.0"
   },
-  "engines": {
-    "npm": "5.4.2",
-    "node": "6.11.1"
+  "scripts": {
+    "start": "gatsby build && gatsby serve",
+    "dev": "gatsby develop --port 8080",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'"
   }
 }
