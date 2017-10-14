@@ -1,0 +1,66 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-projects-jsx": [
+      "component---src-pages-projects-jsx-6851b5bd92f2bfb1cd93.js",
+      "component---src-pages-projects-jsx-6851b5bd92f2bfb1cd93.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---projects": [
+      "path---projects-a0e39f21c11f6a62c5ab.js",
+      "path---projects-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-13ccad4c3f809a9d895d.js",
+      "component---src-layouts-index-js-13ccad4c3f809a9d895d.js.map"
+    ],
+    "path---hero": [
+      "path---hero-a0e39f21c11f6a62c5ab.js",
+      "path---hero-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-hero-jsx": [
+      "component---src-pages-hero-jsx-2e8da7d7811be4c39613.js",
+      "component---src-pages-hero-jsx-2e8da7d7811be4c39613.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-f031e2670dc0ee6a7861.js",
+      "component---src-pages-about-jsx-f031e2670dc0ee6a7861.js.map"
+    ],
+    "commons": [
+      "commons-341380ca409d749068ae.js",
+      "commons-341380ca409d749068ae.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-579b8083eb4ebba2de5f.js",
+      "component---src-pages-404-jsx-579b8083eb4ebba2de5f.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-9ea63cdd9c04820d14fd.js",
+      "component---src-pages-index-jsx-9ea63cdd9c04820d14fd.js.map"
+    ],
+    "app": [
+      "app-2e70988372ad77e3f509.js",
+      "build-js-styles.css",
+      "app-2e70988372ad77e3f509.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
