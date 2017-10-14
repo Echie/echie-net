@@ -8,7 +8,7 @@ const AboutPage = () => (
             <h3>About</h3>
             <ul>
                 <li>~2 years of work experience</li>
-                <li>Motived by producing value for end users</li>
+                <li>Motivated by producing value for end users</li>
                 <li>Also interested in DevOps, CI and React Native</li>
                 <li>4.3 GPA in Master's studies in Aalto University</li>
                 <li>
