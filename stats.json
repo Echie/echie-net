@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-projects-jsx": [
-      "component---src-pages-projects-jsx-6851b5bd92f2bfb1cd93.js",
-      "component---src-pages-projects-jsx-6851b5bd92f2bfb1cd93.js.map"
+      "component---src-pages-projects-jsx-265ccd111e0d7e1529c8.js",
+      "component---src-pages-projects-jsx-265ccd111e0d7e1529c8.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -21,16 +21,16 @@
       "path---hero-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-hero-jsx": [
-      "component---src-pages-hero-jsx-2e8da7d7811be4c39613.js",
-      "component---src-pages-hero-jsx-2e8da7d7811be4c39613.js.map"
+      "component---src-pages-hero-jsx-b6940b47df36169b5147.js",
+      "component---src-pages-hero-jsx-b6940b47df36169b5147.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-1d6dafeed8d51caf0c7c.js",
-      "component---src-pages-about-jsx-1d6dafeed8d51caf0c7c.js.map"
+      "component---src-pages-about-jsx-836f8f8aae665a25ed78.js",
+      "component---src-pages-about-jsx-836f8f8aae665a25ed78.js.map"
     ],
     "commons": [
       "commons-341380ca409d749068ae.js",
@@ -41,12 +41,12 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-jsx": [
-      "component---src-pages-404-jsx-579b8083eb4ebba2de5f.js",
-      "component---src-pages-404-jsx-579b8083eb4ebba2de5f.js.map"
+      "component---src-pages-404-jsx-b30612d91ba1a1750b23.js",
+      "component---src-pages-404-jsx-b30612d91ba1a1750b23.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-46618b6041f75b1d8fed.js",
-      "component---src-pages-index-jsx-46618b6041f75b1d8fed.js.map"
+      "component---src-pages-index-jsx-9d9755bb13df20cd2122.js",
+      "component---src-pages-index-jsx-9d9755bb13df20cd2122.js.map"
     ],
     "app": [
       "app-2e70988372ad77e3f509.js",
