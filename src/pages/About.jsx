@@ -1,9 +1,11 @@
 import React from 'react'
+import profile from '../assets/profile.jpg'
 
 import './About.scss'
 
 const AboutPage = () => (
     <div className="About">
+        <img className="About-Profile" src={profile} alt="Profile"/>
         <div className="About-First">
             <h3>About</h3>
             <ul>

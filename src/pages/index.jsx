@@ -1,11 +1,13 @@
 import React from 'react'
-import Hero from './Hero'
+import HeroBlock from './HeroBlock'
+import HeroImage from './HeroImage'
 import About from './About'
 import Projects from './Projects'
 
 const IndexPage = () => (
     <div>
-        <Hero />
+        <HeroImage />
+        <HeroBlock />
         <About />
         <Projects />
     </div>

@@ -1,0 +1,29 @@
+@import '../common';
+
+.HeroBlock {
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    padding: 60px $side-padding;
+    position: absolute;
+    text-align: center;
+
+    &-Title {
+        font-weight: 300;
+        margin-top: 0.5em;
+        margin-bottom: 0;
+    }
+
+    &-Separator {
+        background-color: #ecf0f1;
+        height: 1px;
+        width: 100%;
+        margin: 25px 0;
+    }
+
+    &-Skills {
+        font-weight: 300;
+        color: #ecf0f1;
+    }
+}

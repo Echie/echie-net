@@ -6,10 +6,12 @@ import Helmet from 'react-helmet'
 import '../lib/font-awesome/css/font-awesome.min.css'
 import './index.scss'
 
-const Header = () => (
-  <div className="Header">
-    <h2 className="Header-Title">ECHIE.NET</h2>
-    <div className="Header-SocialMedia">
+const Footer = () => (
+  <div className="Footer">
+    <div className="Footer-Text">
+      <p className="small">© Teemu Huovinen 2017</p>
+    </div>
+    <div className="Footer-SocialMedia">
       <a href="http://www.github.com/Echie">
         <i className="fa fa-2x fa-github" aria-hidden="true" />
       </a>
@@ -20,12 +22,6 @@ const Header = () => (
   </div>
 )
 
-const Footer = () => (
-  <div className="Footer">
-      <p className="small">© Teemu Huovinen 2017</p>
-  </div>
-)
-
 const TemplateWrapper = ({ children }) => (
 
   <div>
@@ -33,7 +29,6 @@ const TemplateWrapper = ({ children }) => (
       title="Teemu Huovinen"
       meta={[{ name: 'description', content: 'Homepage of Teemu Huovinen' }]}
     />
-    <Header />
       {children()}
     <Footer />
   </div>
