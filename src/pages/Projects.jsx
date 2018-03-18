@@ -9,7 +9,7 @@ const Projects = () => (
         </h2>
 
         <p className="Projects-Text">
-            More information coming soon
+            More information coming at some point
         </p>
 
     </div>

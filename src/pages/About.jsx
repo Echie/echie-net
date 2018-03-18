@@ -9,7 +9,8 @@ const AboutPage = () => (
         <div className="About-First">
             <h3>About</h3>
             <ul>
-                <li>~2 years of work experience</li>
+                <li>Software Developer at <a href="https://www.dagmar.fi">Dagmar</a></li>
+                <li>Full-stack maintenance and development of data-analytics apps</li>
                 <li>Motivated by producing value for end users</li>
                 <li>Also interested in DevOps, CI and React Native</li>
                 <li>4.3 GPA in Master's studies in Aalto University</li>
@@ -26,10 +27,10 @@ const AboutPage = () => (
             <h3>Technologies</h3>
             <ul>
                 <li>React, Node</li>
-                <li>jQuery, PhantomJS, Mocha, Django, PHP</li>
+                <li>Python, Django, jQuery, PhantomJS, Mocha</li>
                 <li>C, C++, C#</li>
                 <li>MySQL, SQLite, MongoDB</li>
-                <li>AWS, Heroku, Google Cloud</li>
+                <li>Google Cloud, AWS, Heroku</li>
                 <li>Docker, Vagrant, Travis, Jenkins</li>
             </ul>
         </div>
