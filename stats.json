@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-projects-jsx": [
-      "component---src-pages-projects-jsx-3c2eda695007be0dfd41.js",
-      "component---src-pages-projects-jsx-3c2eda695007be0dfd41.js.map"
-    ],
     "path---hero-block": [
       "path---hero-block-a0e39f21c11f6a62c5ab.js",
       "path---hero-block-a0e39f21c11f6a62c5ab.js.map"
@@ -16,29 +12,29 @@
       "component---src-pages-hero-image-jsx-5c9710e8012b86f0ad33.js",
       "component---src-pages-hero-image-jsx-5c9710e8012b86f0ad33.js.map"
     ],
+    "path---career": [
+      "path---career-a0e39f21c11f6a62c5ab.js",
+      "path---career-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-hero-block-jsx": [
       "component---src-pages-hero-block-jsx-2bd6e7068cd010e5fee7.js",
       "component---src-pages-hero-block-jsx-2bd6e7068cd010e5fee7.js.map"
     ],
-    "path---projects": [
-      "path---projects-a0e39f21c11f6a62c5ab.js",
-      "path---projects-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-eb660c5a3fba5bf2664f.js",
-      "component---src-layouts-index-js-eb660c5a3fba5bf2664f.js.map"
+      "component---src-layouts-index-js-e9b2e776808ce9af1fa9.js",
+      "component---src-layouts-index-js-e9b2e776808ce9af1fa9.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-11dd0acdc88ef83b44de.js",
-      "component---src-pages-about-jsx-11dd0acdc88ef83b44de.js.map"
+      "component---src-pages-about-jsx-0373999e6b1533f0a260.js",
+      "component---src-pages-about-jsx-0373999e6b1533f0a260.js.map"
     ],
     "commons": [
-      "commons-341380ca409d749068ae.js",
-      "commons-341380ca409d749068ae.js.map"
+      "commons-035468c6d82627ba72ca.js",
+      "commons-035468c6d82627ba72ca.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -53,14 +49,18 @@
       "path---hero-image-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-17931455616a994a72e3.js",
-      "component---src-pages-index-jsx-17931455616a994a72e3.js.map"
+      "component---src-pages-index-jsx-c733add2d6d938b4e35e.js",
+      "component---src-pages-index-jsx-c733add2d6d938b4e35e.js.map"
     ],
     "app": [
-      "app-0262ddc329a2462a6fdb.js",
+      "app-b6ec947dd5301fe83c56.js",
       "build-js-styles.css",
-      "app-0262ddc329a2462a6fdb.js.map",
+      "app-b6ec947dd5301fe83c56.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-career-jsx": [
+      "component---src-pages-career-jsx-47e0250255562f7b7528.js",
+      "component---src-pages-career-jsx-47e0250255562f7b7528.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
