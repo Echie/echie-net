@@ -9,7 +9,7 @@ import './index.scss'
 const Footer = () => (
   <div className="Footer">
     <div className="Footer-Text">
-      <p className="small">© Teemu Huovinen 2017</p>
+      <p className="small">© Teemu Huovinen 2018</p>
     </div>
     <div className="Footer-SocialMedia">
       <a href="http://www.github.com/Echie">
