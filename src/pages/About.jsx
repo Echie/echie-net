@@ -9,11 +9,10 @@ const AboutPage = () => (
         <div className="About-First">
             <h3>About</h3>
             <ul>
-                <li>Software Developer at <a href="https://www.dagmar.fi">Dagmar</a></li>
-                <li>Full-stack maintenance and development of data-analytics apps</li>
+                <li>Software Developer at <a href="https://swappie.com/fi/">Swappie</a></li>
                 <li>Motivated by producing value for end users</li>
                 <li>Also interested in DevOps & CI</li>
-                <li>4.3 GPA in Master's studies in Aalto University</li>
+                <li>Master of Science (Tech.) from Aalto University</li>
             </ul>
         </div>
 
