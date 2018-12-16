@@ -7,7 +7,7 @@
     "start": "gatsby build && gatsby serve -p $PORT",
     "dev": "gatsby develop --port 8080",
     "deploy": "gatsby build && cp CNAME public/CNAME && gh-pages -d public",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'"
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.jsx'"
   },
   "dependencies": {
     "gatsby": "^2.0.67",
