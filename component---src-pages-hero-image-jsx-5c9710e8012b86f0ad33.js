@@ -1,2 +1,0 @@
-webpackJsonp([84465196589269],{77:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(2),r=n(a);u(110);var o=function(){return r.default.createElement("div",{className:"HeroImage"})};t.default=o,e.exports=t.default},110:function(e,t){}});
-//# sourceMappingURL=component---src-pages-hero-image-jsx-5c9710e8012b86f0ad33.js.map
