@@ -3,11 +3,11 @@
 html {
     font-size: 12px;
 
-    @media screen and (max-width: $break-mobile) {
+    @media screen and (max-width: $screen-m) {
         font-size: 10px;
     }
 
-    @media screen and (min-width: $break-desktop) {
+    @media screen and (min-width: $screen-l) {
         font-size: 16px;
     }
 
