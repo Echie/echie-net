@@ -1,3 +1,5 @@
+@import '../common';
+
 .Flipper {
     /* entire container, keeps perspective */
 	perspective: 1000px;
@@ -9,6 +11,11 @@
     color: black;
     padding: 10px 20px;
 
+
+    @media screen and (max-width: $screen-m) {
+        display: block;
+        margin: 20px auto;
+    }
 
     /* flip the pane when hovered */
     &:hover &-Inner, &.hover &-Inner {
@@ -26,6 +33,10 @@
     &, &-Front, &-Back {
         width: 240px;
         height: 320px;
+
+        @media screen and (max-width: $screen-xs) {
+            width: 180px;
+        }
     }
 
     /* hide back of pane during swap */
@@ -48,18 +59,16 @@
             width: 100%;
             position: relative;
             top: 25%;
-        }
 
-        // & h4 {
-        //     position: relative;
-        //     top: 15%;
-        // }
+            @media screen and (max-width: $screen-m) {
+                width: 80%;
+            }
+        }
     }
 
     /* back, initially hidden pane */
     &-Back {
         transform: rotateY(180deg);
     }
-
 }
 
