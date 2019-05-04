@@ -8,10 +8,12 @@ import Career from './Career'
 import '../lib/font-awesome/css/font-awesome.min.css'
 import './index.scss'
 
+const getYear = () => new Date().getFullYear()
+
 const Footer = () => (
     <div className="Footer">
         <div className="Footer-Text">
-            <p className="small">© Teemu Huovinen 2018</p>
+            <p className="small">© Teemu Huovinen {getYear()}</p>
         </div>
         <div className="Footer-SocialMedia">
             <a href="http://www.github.com/Echie">
