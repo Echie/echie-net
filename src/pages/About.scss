@@ -16,11 +16,15 @@
         font-size: 1.5em;
     }
 
-    &-First { padding-right: 5%; }
-    &-Second { padding-left: 5%; }
+    &-First {
+        padding-right: 5%;
+    }
+    &-Second {
+        padding-left: 5%;
+    }
 
-
-    &-First, &-Second {
+    &-First,
+    &-Second {
         display: inline-block;
         word-wrap: break-word;
         vertical-align: top;
@@ -29,7 +33,9 @@
         line-height: 1.5;
 
         text-align: left;
-        h3 { text-align: center; }
+        h3 {
+            text-align: center;
+        }
 
         ul {
             margin: 0;
@@ -47,7 +53,5 @@
                 list-style-type: none;
             }
         }
-
     }
-
 }

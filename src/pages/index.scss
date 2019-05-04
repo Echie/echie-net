@@ -10,11 +10,10 @@ html {
     @media screen and (min-width: $screen-l) {
         font-size: 16px;
     }
-
 }
 
 body {
-    font-family: "Julius Sans One", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Julius Sans One', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1.2rem;
     font-weight: 300;
     overflow-x: hidden;
@@ -22,17 +21,27 @@ body {
     margin: 0;
 }
 
-p, span {
+p,
+span {
     font-size: 1.25rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 500;
 }
 
-h1 { font-size: 3.5rem; }
+h1 {
+    font-size: 3.5rem;
+}
 
-h2 { font-size: 2rem; }
+h2 {
+    font-size: 2rem;
+}
 
 .Footer {
     background: $theme-primary;
@@ -54,5 +63,4 @@ h2 { font-size: 2rem; }
             padding: 0px 10px;
         }
     }
-
 }

@@ -1,26 +1,26 @@
 {
-  "name": "homepage-gatsby",
-  "version": "1.0.0",
-  "author": "Teemu Huovinen <teemu.huovinen@hotmail.fi>",
-  "license": "MIT",
-  "scripts": {
-    "start": "gatsby build && gatsby serve -p $PORT",
-    "dev": "gatsby develop --port 8080",
-    "deploy": "gatsby build && cp CNAME public/CNAME && gh-pages -d public",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.jsx'"
-  },
-  "dependencies": {
-    "gatsby": "^2.0.67",
-    "gatsby-plugin-react-helmet": "^3.0.4",
-    "gatsby-plugin-sass": "^2.0.7",
-    "node-sass": "^4.11.0",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-helmet": "^5.2.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.15.3",
-    "sass-lint": "^1.12.1"
-  }
+    "name": "homepage-gatsby",
+    "version": "1.0.0",
+    "author": "Teemu Huovinen <teemu.huovinen@hotmail.fi>",
+    "license": "MIT",
+    "scripts": {
+        "start": "gatsby build && gatsby serve -p $PORT",
+        "dev": "gatsby develop --port 8080",
+        "deploy": "gatsby build && cp CNAME public/CNAME && gh-pages -d public",
+        "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.jsx'"
+    },
+    "dependencies": {
+        "gatsby": "^2.0.67",
+        "gatsby-plugin-react-helmet": "^3.0.4",
+        "gatsby-plugin-sass": "^2.0.7",
+        "node-sass": "^4.11.0",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3",
+        "react-helmet": "^5.2.0"
+    },
+    "devDependencies": {
+        "gh-pages": "^2.0.1",
+        "prettier": "^1.15.3",
+        "sass-lint": "^1.12.1"
+    }
 }
