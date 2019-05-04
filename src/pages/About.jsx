@@ -21,11 +21,10 @@ const AboutPage = () => (
         <div className="About-Second">
             <h3>Technologies</h3>
             <ul>
-                <li>Python, Django, jQuery</li>
+                <li>Python, Django</li>
                 <li>React, Node</li>
-                <li>PhantomJS, Mocha</li>
                 <li>C, C++, C#</li>
-                <li>MySQL, PostgreSQL, SQLite, MongoDB, Redis</li>
+                <li>PostgreSQL, MySQL, MongoDB, Redis</li>
                 <li>Google Cloud, AWS, Heroku</li>
                 <li>Docker, Vagrant, Travis, Jenkins</li>
             </ul>
