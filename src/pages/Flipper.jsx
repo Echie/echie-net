@@ -6,7 +6,7 @@ const Flipper = ({ name, logo, text }) => (
     <div className="Flipper">
         <div className="Flipper-Inner">
             <div className="Flipper-Front">
-                <Img fluid={logo} alt={name} />
+                <Img fluid={logo} alt={name} fixed={typeof window === 'undefined' ? { src: {} } : undefined} />
             </div>
             <div className="Flipper-Back">
                 <p>{text}</p>
