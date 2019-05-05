@@ -10,17 +10,23 @@
         "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.jsx'"
     },
     "dependencies": {
-        "gatsby": "^2.0.67",
-        "gatsby-plugin-react-helmet": "^3.0.4",
-        "gatsby-plugin-sass": "^2.0.7",
-        "node-sass": "^4.11.0",
-        "react": "^16.6.3",
-        "react-dom": "^16.6.3",
-        "react-helmet": "^5.2.0"
+        "gatsby": "^2.4.2",
+        "gatsby-background-image": "^0.5.3",
+        "gatsby-image": "^2.0.41",
+        "gatsby-plugin-react-helmet": "^3.0.12",
+        "gatsby-plugin-sass": "^2.0.11",
+        "gatsby-plugin-sharp": "^2.0.36",
+        "gatsby-source-filesystem": "^2.0.33",
+        "gatsby-transformer-sharp": "^2.1.19",
+        "intersection-observer": "^0.6.0",
+        "node-sass": "^4.12.0",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-helmet": "^5.2.1"
     },
     "devDependencies": {
         "gh-pages": "^2.0.1",
-        "prettier": "^1.15.3",
-        "sass-lint": "^1.12.1"
+        "prettier": "^1.17.0",
+        "sass-lint": "^1.13.1"
     }
 }

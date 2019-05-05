@@ -1,12 +1,12 @@
 import React from 'react'
-
+import Img from 'gatsby-image'
 import './Flipper.scss'
 
 const Flipper = ({ name, logo, text }) => (
     <div className="Flipper">
         <div className="Flipper-Inner">
             <div className="Flipper-Front">
-                <img src={logo} alt={`${name} Logo`} />
+                <Img fluid={logo} alt={name} />
             </div>
             <div className="Flipper-Back">
                 <p>{text}</p>

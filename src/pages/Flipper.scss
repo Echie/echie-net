@@ -58,14 +58,8 @@
         /* for firefox 31 */
         transform: rotateY(0deg);
 
-        & img {
-            width: 100%;
-            position: relative;
-            top: 25%;
-
-            @media screen and (max-width: $screen-m) {
-                width: 80%;
-            }
+        .gatsby-image-wrapper {
+            top: 20%;
         }
     }
 
