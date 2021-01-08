@@ -6,8 +6,7 @@ import './Career.scss'
 const companies = [
     {
         name: 'swappie',
-        text: `My responsibilities at Swappie extend from the development of the e-commerce site
-      to various back-end management systems, such as inventory management and order fulfillment.`
+        text: `I'm currently leading the team that focuses on Swappie's digital customer experience. My responsibilities include people, delivery and product leadership.`,
     },
     {
         name: 'dagmar',
