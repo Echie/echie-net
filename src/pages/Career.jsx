@@ -12,15 +12,15 @@ const companies = [
     {
         name: 'dagmar',
         text: `At Dagmar, I was responsible for the software side of a data analytics team.
-      I improved their cloud hosting setup, developed existing applications and created prototypes
-      for new ones. I also wrote my thesis at Dagmar on an agile piloting project.`
+      I improved the cloud hosting setup, developed existing applications and created prototypes
+      for new ones. I also wrote my thesis at Dagmar on an agile piloting project.`,
     },
     {
         name: 'futurice',
         text: `I started at Futurice as a summer worker, and continued part-time after summer
       while simultaneously finishing up my university courses.
-      During this time, I completed an integrations project for a customer as the main developer.`
-    }
+      During this time, I completed an integrations project for a customer as the main developer.`,
+    },
 ]
 
 const Career = ({ data }) => (
