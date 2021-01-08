@@ -7,7 +7,7 @@ const HeroBlock = () => (
         <div className="HeroBlock-Image" />
         <h1 className="HeroBlock-Title">TEEMU HUOVINEN</h1>
         <div className="HeroBlock-Separator" />
-        <p className="HeroBlock-Skills">Full-Stack Web Developer | Tech enthusiast | Nerd </p>
+        <p className="HeroBlock-Skills"> Engineering Lead | Full-Stack Web Developer | Nerd </p>
     </div>
 )
 

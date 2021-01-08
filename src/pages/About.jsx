@@ -10,10 +10,9 @@ const AboutPage = () => (
             <h3>About</h3>
             <ul>
                 <li>
-                    Software Developer at <a href="https://swappie.com/fi/">Swappie</a>
+                    Engineering Lead at <a href="https://swappie.com/fi/">Swappie</a>
                 </li>
                 <li>Motivated by producing value for end users</li>
-                <li>Also interested in DevOps & CI</li>
                 <li>Master of Science (Tech.) from Aalto University</li>
             </ul>
         </div>
@@ -21,8 +20,8 @@ const AboutPage = () => (
         <div className="About-Second">
             <h3>Technologies</h3>
             <ul>
+                <li>React, Node & TypeScript</li>
                 <li>Python, Django</li>
-                <li>React, Node</li>
                 <li>C, C++, C#</li>
                 <li>PostgreSQL, MySQL, MongoDB, Redis</li>
                 <li>Google Cloud, AWS, Heroku</li>
